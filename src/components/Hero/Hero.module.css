@@ -88,7 +88,7 @@
 }
 
 .bottomBlur {
-    position: absolute;
+    position: fixed;
     width: 70vw;
     height: 50vw;
     min-width: 350px;
