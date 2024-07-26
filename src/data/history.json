@@ -1,0 +1,20 @@
+[
+    {
+        "role": "Web Developer (Practicante)",
+        "organisation":"El canasto de ideas",
+        "startDate":"Dic. 2020",
+        "endDate":"Feb. 2021",
+        "experiences":["Desarrollo de pagina web para ecommerce.", "Generacion de informes."],
+        "technology":"Django (Python), Oracle"
+
+    },
+    {
+        "role": "Web Developer (Practicante)",
+        "organisation":"Paola Toledo Salón de Belleza Integral",
+        "startDate":"Jun. 2019",
+        "endDate":"Ago. 2019",
+        "experiences":["Desarrollo de pagina web para ecommerce.","Creacion de plantillas Excel."],
+        "technology":"Django (Python), Oracle"
+
+    }
+]

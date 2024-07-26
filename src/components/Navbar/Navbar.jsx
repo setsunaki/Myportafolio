@@ -31,13 +31,13 @@ export const Navbar = () => {
                     <a href="#about">Sobre mi</a>
                 </li>
                 <li>
-                    <a href="#about">Experiencia</a>
+                    <a href="#experience">Experiencia</a>
                 </li>
                 <li>
-                    <a href="#about">Proyectos</a>
+                    <a href="#projects">Proyectos</a>
                 </li>
                 <li>
-                    <a href="#about">Contacto</a>
+                    <a href="#contact">Contacto</a>
                 </li>
             </ul>
         </div>
