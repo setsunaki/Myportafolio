@@ -6,9 +6,9 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hola, Soy wladimir</h1>
+            <h1 className={styles.title}>Hola, soy wladimir</h1>
             <p className={styles.description}>
-              Soy desarrollador full-stack con 2 años de experiancia(no formal) usando Python entre otros lenguajes.
+            Soy desarrollador full-stack con 2 años de experiencia (no formal) usando Python entre otros lenguajes.
             </p>
             <a href="mailto:wladimirburgos42@gmail.com" className={styles.contactBtn}>Contactame</a>
         </div>
