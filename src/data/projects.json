@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Blog anime",
+        "imageSrc":"projects/blog.png",
+        "description":"Blog relacionado con temas de anime, manga y video juegos",
+        "skills":["React"],
+        "demo":"https://my-blog-beta-eight.vercel.app",
+        "source":"https://github.com/setsunaki/blog-react"
+    },
+    {
+        "title":"Blog anime",
+        "imageSrc":"projects/blog.png",
+        "description":"Blog relacionado con temas de anime, manga y video juegos",
+        "skills":["React"],
+        "demo":"https://my-blog-beta-eight.vercel.app",
+        "source":"https://github.com/setsunaki/blog-react"
+    },
+    {
+        "title":"Blog anime",
+        "imageSrc":"projects/blog.png",
+        "description":"Blog relacionado con temas de anime, manga y video juegos",
+        "skills":["React"],
+        "demo":"https://my-blog-beta-eight.vercel.app",
+        "source":"https://github.com/setsunaki/blog-react"
+    }
+]

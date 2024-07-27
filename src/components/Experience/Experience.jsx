@@ -32,6 +32,7 @@ export const Experience = () => {
                                 <ul>{historyItem.experiences.map((experience, id) =>{
                                     return <li key={id}>{experience}</li>
                                 })}</ul>
+                                <p>Teconologia usada: {historyItem.technology}</p>
                             </div>
                         </li>
                     })

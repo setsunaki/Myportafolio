@@ -109,6 +109,10 @@
     .content {
         align-items: center;
     }
+
+    .bottomBlur {
+        display: none;
+    }
 }
 
 
