@@ -15,11 +15,13 @@
 }
 
 .image {
-    margin-top: 26px;
+    margin-top: 20px;
     border-radius: 5%;
+    height: 200px;
 }
 
 .title{
+    margin-top: 15px;
     font-size: 25px;
     font-weight: 700;
 }

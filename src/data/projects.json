@@ -8,19 +8,11 @@
         "source":"https://github.com/setsunaki/blog-react"
     },
     {
-        "title":"Blog anime",
-        "imageSrc":"projects/blog.png",
-        "description":"Blog relacionado con temas de anime, manga y video juegos",
-        "skills":["React"],
-        "demo":"https://my-blog-beta-eight.vercel.app",
-        "source":"https://github.com/setsunaki/blog-react"
-    },
-    {
-        "title":"Blog anime",
-        "imageSrc":"projects/blog.png",
-        "description":"Blog relacionado con temas de anime, manga y video juegos",
-        "skills":["React"],
-        "demo":"https://my-blog-beta-eight.vercel.app",
-        "source":"https://github.com/setsunaki/blog-react"
+        "title":"Aplicacion de clima",
+        "imageSrc":"projects/project.png",
+        "description":"Una pequeña app para ver el clima de una localidad y algunas estadisticas.",
+        "skills":["Angular"],
+        "demo":"https://clima-app-wine-tau.vercel.app",
+        "source":"https://github.com/setsunaki/ClimaApp"
     }
 ]
