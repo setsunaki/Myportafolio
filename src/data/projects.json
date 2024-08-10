@@ -9,7 +9,7 @@
     },
     {
         "title":"Aplicacion de clima",
-        "imageSrc":"projects/project.png",
+        "imageSrc":"projects/climaApp.png",
         "description":"Una pequeña app para ver el clima de una localidad y algunas estadisticas.",
         "skills":["Angular"],
         "demo":"https://clima-app-wine-tau.vercel.app",
