@@ -12,7 +12,7 @@
         "imageSrc":"projects/climaApp.png",
         "description":"Una pequeña app para ver el clima de una localidad y algunas estadisticas.",
         "skills":["Angular"],
-        "demo":"https://clima-app-theta-ten.vercel.app",
+        "demo":"",
         "source":"https://github.com/setsunaki/ClimaApp"
     }
 ]
