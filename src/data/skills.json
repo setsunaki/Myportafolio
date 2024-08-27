@@ -18,5 +18,25 @@
     {
         "title": "React",
         "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "Angular",
+        "imageSrc": "skills/angular.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    {
+        "title": "Oracle",
+        "imageSrc": "skills/oracle.png"
+    },
+    {
+        "title": "PHP",
+        "imageSrc": "skills/php.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/java.png"
     }
 ]

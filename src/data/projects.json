@@ -12,7 +12,15 @@
         "imageSrc":"projects/climaApp.png",
         "description":"Una pequeña app para ver el clima de una localidad y algunas estadisticas.",
         "skills":["Angular"],
-        "demo":"",
+        "demo":"https://clima-app-theta-ten.vercel.app",
         "source":"https://github.com/setsunaki/ClimaApp"
+    },
+    {
+        "title":"Eccomerce",
+        "imageSrc":"projects/eccomerce.png",
+        "description":"Aplicacion de tipo eccomerce que desarrolle en mi practica profesional.",
+        "skills":["Python(Django)","SQLite"],
+        "demo":"https://setsunaky.pythonanywhere.com",
+        "source":"https://github.com/setsunaki/eccomerce/tree/wladimir"
     }
 ]
